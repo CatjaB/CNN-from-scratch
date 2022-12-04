@@ -1,4 +1,4 @@
-*** If you can't see any code yet, it's because I still have to do one final touch-up! But I will upload the code by 4th December 2022! ***
+*** If you can't see any code yet, it's because I still have to do one final touch-up! But I will upload the code by 15th December 2022! ***
 
 But check out the code to my last paper here:
 https://github.com/CatjaB/Cluster-Analysis-for-Customer-Segmentation-With-Open-Banking-Data
