@@ -1,7 +1,14 @@
-*** If you can't see any code yet, it's because I still have to do one final touch-up! But I will upload the code by 31st January 2022! ***
-
-But check out the code to my last paper here:
-https://github.com/CatjaB/Cluster-Analysis-for-Customer-Segmentation-With-Open-Banking-Data
-
 # CNN-from-scratch
-I built a CNN from scratch using PyTorch Custom NN Modules to classify MNIST images. This is the base of my further Computer Vision project.
+I built a CNN from scratch using PyTorch Custom NN Modules to classify MNIST images. 
+
+##Why did I do this?
+I did this, so I can better understand how the CNN really works.
+
+##What will I do next?
+Try using matrix operations instead of using for-loops. For-loops were great for understanding the CNN, but make the algorithm really, really slow.
+
+##What have I learned, what will I do better next time?
+First of all, before starting to code, I need to know the exact input and output types, and how they look.
+Further, better tests and just coding more clean & with more comments will make my life a lot easier :D
+
+Thank you for reading this far, I hope you have a great day! 
